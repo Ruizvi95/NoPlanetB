@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoPlanetB</string>
+    <string name="titulo">No PlanetB</string>
+    <string name="subtitulo">too late for leaving...</string>
+    <string name="e_mail" translatable="false">E-Mail</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="and_no_next_generation">And no next generation</string>
+</resources>
