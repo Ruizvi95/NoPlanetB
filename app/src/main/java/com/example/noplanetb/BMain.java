@@ -14,6 +14,9 @@ import com.bumptech.glide.request.RequestOptions;
 public class BMain extends AppCompatActivity {
     private SwipeRefreshLayout swipeLayout;
     @Override
+
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bmain);
